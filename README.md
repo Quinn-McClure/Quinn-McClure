@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub!
 
-![Screenshot 2022-12-15 at 11 29 49 AM](https://user-images.githubusercontent.com/100171762/207928841-d9d123ed-1388-4bd4-8476-3fb1472a5739.png)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinn-mcclure)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quinn-mcclure)](https://github.com/anuraghazra/github-readme-stats)
