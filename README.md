@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Welcome to my GitHub!
 
+Hello, my name is Quinn McClure. I am a Computer Science major and an Environmental Studies minor at the University of Wisconsin - La Crosse.
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinn-mcclure)](https://github.com/anuraghazra/github-readme-stats)
