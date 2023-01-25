@@ -20,4 +20,4 @@ Hello, my name is Quinn McClure. I am a Computer Science major and an Environmen
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=quinn-mcclure)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quinn-mcclure)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
